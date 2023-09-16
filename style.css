@@ -1,0 +1,14 @@
+
+
+
+.card{
+    align-items: center;
+    display: inline-block;
+    flex-wrap: nowrap;
+    width: 100px;
+    height: 300px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+}
+
